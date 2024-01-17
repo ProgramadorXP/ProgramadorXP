@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProgramadorXP
 - 👀 I’m interested in web development
-- 🌱 I'm currently learning everything about the front end (html, css, sass, tailwind, js, react) to later move on to the backend part and become a full stack developer and not just consuming APIs xd.
+- 🌱 I'm currently learning everything about the front end (html, css, sass, tailwind, js, react) to later move on to the backend part and become a full stack developer.
 - 💞️ I'm looking for a job where I can continue learning more technologies and ways of working.
 
 <!---
