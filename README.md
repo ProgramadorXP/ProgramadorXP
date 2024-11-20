@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProgramadorXP
+* 👋 Hi There
 - 👀 I’m interested in web development
 - 🌱 I'm currently learning everything about the front end (HTML, CSS, SASS, Tailwind CSS, JS, React con TypeScript) to later learn the backend (postgreSQL, Node.js con Express & TypeScript) and become a full stack developer.
 - 💞️ I'm looking for a job where I can continue learning more technologies and different ways of working.
