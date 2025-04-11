@@ -4,7 +4,7 @@
     <tr>
       <td align="left" style="vertical-align: middle;">
         <p>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ffffff&size=25&center=false&vCenter=true&width=400&height=60&lines=👋+¡Hi,+I'm+Jonhatan+Villalobos%2C;Computer+Systems+Engineer%2C;Let's+Code%21" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ffffff&size=25&center=false&vCenter=true&width=400&height=60&lines=👋+¡Hi,+I'm+Jonhatan%2C;Computer+Systems+Engineer%2C;Let's+Code%21" />
         </p>
         <h3>🚀 Full Stack Developer in the making | 💡 Building creative, useful, and scalable web apps</h3>
       </td>
