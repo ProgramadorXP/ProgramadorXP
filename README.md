@@ -1,14 +1,19 @@
 <!-- Título principal animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ffffff&size=25&center=true&vCenter=true&width=600&height=100&lines=👋+¡Hi,+I'm+Jonhatan+Villalobos%2C;Computer+Systems+Engineer%2C;Let's+Code%21">
-</p>
-
-<h3 align="center">🚀 Full Stack Developer in the making | 💡 Building creative, useful, and scalable web apps</h3>
-
-<!-- Gif animado centrado -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" style="vertical-align: middle;">
+        <p>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ffffff&size=25&center=false&vCenter=true&width=400&height=60&lines=👋+¡Hi,+I'm+Jonhatan+Villalobos%2C;Computer+Systems+Engineer%2C;Let's+Code%21" />
+        </p>
+        <h3>🚀 Full Stack Developer in the making | 💡 Building creative, useful, and scalable web apps</h3>
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
